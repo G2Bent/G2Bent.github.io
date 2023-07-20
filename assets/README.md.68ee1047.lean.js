@@ -1,0 +1,1 @@
+import{_ as a,o as s,c as n,a as e}from"./chunks/framework.4babafae.js";const b=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),l={name:"README.md"},t=e("",7),o=[t];function p(r,c,i,h,d,_){return s(),n("div",null,o)}const C=a(l,[["render",p]]);export{b as __pageData,C as default};
