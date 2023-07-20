@@ -1,17 +1,17 @@
 {
-  "name": "jexblog",
+  "name": "g2bent.github.io",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
-  "license": "MIT",
   "scripts": {
-    "build": "vitepress build",
-    "dev": "NODE_ENV=development vitepress",
-    "deploy": "./deploy.sh"
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
   },
-  "devDependencies": {
-    "globby": "^11.0.1",
-    "gray-matter": "^4.0.2",
-    "mz": "^2.7.0",
-    "vitepress": "^1.0.0-alpha.40"
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vitepress": "1.0.0-beta.5"
   }
 }
