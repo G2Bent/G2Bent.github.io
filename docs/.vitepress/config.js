@@ -1,11 +1,11 @@
 export default {
-  title: "kittyui", //站点标题
+  title: "vant", //站点标题
   description: "一个vue3组件库", //mate标签description，多用于搜索引擎抓取摘要
   themeConfig: {
-    siteTitle: "Kitty",
+    siteTitle: "vant",
     logo: "/logo.png",
     socialLinks: [
-      { icon: "github", link: "https://gitee.com/geeksdidi" },
+      { icon: "github", link: "https://github.com/G2Bent" },
       { icon: "twitter", link: "..." },
       // You can also add custom icons by passing SVG as string:
       {
@@ -16,9 +16,9 @@ export default {
       },
     ],
     nav: [
-      { text: "博客", link: "/articles/组件库环境搭建" },
+      { text: "Python", link: "/articles/组件库环境搭建" },
       { text: "GuideTest", link: "/guide/test" },
-      { text: "gitee", link: "https://gitee.com/geeksdidi" },
+      { text: "github", link: "https://github.com/G2Bent" },
       {
         text: "Drop Menu",
         items: [
@@ -47,7 +47,10 @@ export default {
               text: "组件库环境搭建",
               link: "/articles/组件库环境搭建",
             },
-            { text: "gulp的使用", link: "/articles/gulp的使用" },
+            { 
+              text: "gulp的使用", 
+              link: "/articles/gulp的使用" 
+            },
           ],
         },
         {

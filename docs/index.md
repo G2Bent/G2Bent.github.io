@@ -2,24 +2,25 @@
 layout: home
 
 hero:
-  name: 东方小月的博客
-  text: 随便写点啥.
-  tagline: 帅气又迷人的小月
+  name: vant的博客
+  text: Work Play
+  tagline: 技术捣乱分子
   image:
     src: /logo.png
-    alt: Kitty
+    alt: Vant
   actions:
     - theme: brand
-      text: 快来快来
-      link: /articles/组件库环境搭建
+      text: 关于我
+      link: /articles/about
     - theme: alt
-      text: View on Gitee
-      link: https://gitee.com/geeksdidi
+      text: View on Github
+      link: https://github.com/G2Bent/g2bent.github.io
 
 features:
   - icon: ⚡️
     title: 这是一个闪电图标
     details: wawawa
+    link: /articles/about
   - icon: 🖖
     title: 这是一个手掌图标
     details: good...
